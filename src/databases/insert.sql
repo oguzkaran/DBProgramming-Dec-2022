@@ -1,3 +1,5 @@
+insert into games (name, publisher, release_date, is_available) values ('Fifa 2022', 'Electronic Arts', '2022-03-23', true);
+
 insert into games (name, publisher, release_date, is_available) values ('Lemur fulvus', 'Bubblemix', '2021-08-14', false);
 insert into games (name, publisher, release_date, is_available) values ('Cebus albifrons', 'Oloo', '2021-11-20', false);
 insert into games (name, publisher, release_date, is_available) values ('Sarcophilus harrisii', 'Buzzshare', '2022-01-15', false);
