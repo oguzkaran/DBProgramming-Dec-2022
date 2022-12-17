@@ -1000,3 +1000,4 @@ insert into games (name, publisher, release_date, is_available) values ('Bettong
 insert into games (name, publisher, release_date, is_available) values ('Paradoxurus hermaphroditus', 'Babbleblab', '2019-08-05', false);
 insert into games (name, publisher, release_date, is_available) values ('Theropithecus gelada', 'Jabbercube', '2020-02-17', false);
 insert into games (name, publisher, release_date, is_available) values ('Nyctereutes procyonoides', 'Photolist', '2021-07-02', false);
+
