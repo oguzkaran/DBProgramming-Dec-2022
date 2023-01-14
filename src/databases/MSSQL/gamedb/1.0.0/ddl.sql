@@ -35,8 +35,9 @@ create table games (
 	publisher nvarchar(255) not null,
 	release_date date not null,
 	is_available bit default(1) not null
-);
+)
 
+go
 
 -- One player play many games, One game is played by many players
 
@@ -45,7 +46,9 @@ create table players_to_games (
 	player_id int foreign key references players(player_id) not null,
 	game_id int foreign key references games(game_id) not null,
 	start_date date default(getdate()) not null
-);
+)
+
+go
 
 create table players_to_games_play_data (
 	player_to_game_data_id bigint primary key identity(1, 1),
@@ -53,6 +56,6 @@ create table players_to_games_play_data (
 	begin_time datetime default(sysdatetime()) not null,
 	end_time datetime,
 	score bigint default(0) not null
-);
+)
 
 
