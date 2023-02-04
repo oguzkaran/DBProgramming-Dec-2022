@@ -4,11 +4,7 @@
 
 create database dbpd22_bankappdb
 
-go
-
 use dbpd22_bankappdb
-
-go
 
 
 create table marital_status (
@@ -68,4 +64,33 @@ create table cards (
 	expiry_year int not null, 
 	security_code char(4) not null	
 );
+
+
+create function hide_text_right(@text nvarchar(max), @ch char(1), @n int)
+returns nvarchar(max)
+as
+begin
+    return left(@text, @n) + replicate(@ch, len(@text) - @n)
+end;
+
+
+create function get_full_name(@first_name nvarchar(100), @middle_name nvarchar(100), @last_name nvarchar(100))
+returns nvarchar(max)
+as
+begin   
+    return case 
+            when @middle_name is not null then @first_name + ' ' + @middle_name
+            else @first_name
+            end + ' ' + upper(@last_name)
+end;
+
+create function get_status_text(@predicate bit, @true_str nvarchar(100),  @false_str nvarchar(100))
+returns nvarchar(100)
+as
+begin
+    return case @predicate
+        when 1 then @true_str
+        else @false_str
+        end
+end;
 
