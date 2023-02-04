@@ -66,6 +66,8 @@ create table cards (
 );
 
 
+-- Functions
+
 create function hide_text_right(@text nvarchar(max), @ch char(1), @n int)
 returns nvarchar(max)
 as
@@ -93,4 +95,19 @@ begin
         else @false_str
         end
 end;
+
+
+create function get_customer_info_by_number(@number bigint)
+returns table
+as
+return (
+    select dbo.get_full_name(cu.first_name, cu.middle_name, cu.last_name) as full_name,
+    dbo.hide_text_right(ca.card_number, 'X', 4) as card_number,
+    dbo.hide_text_right(ca.security_code, '*', 1) as security_code,
+    ct.description as card_type,
+    dbo.get_status_text(cu.is_personnel, 'PERSONNEL', 'NOT A PERSONNEL') as personnel_status
+    from customers cu inner join cards ca on cu.customer_number=ca.customer_number
+    inner join card_types ct on ca.card_type_id=ct.card_type_id
+    where cu.customer_number=@number
+);
 
