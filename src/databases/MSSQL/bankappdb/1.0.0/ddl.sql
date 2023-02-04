@@ -16,7 +16,11 @@ create table customers (
 	middle_name varchar(100),
 	last_name varchar(100) not null,
 	birth_date date not null,
-	marital_status_id int references marital_status(marital_status_id) not null
+	marital_status_id int references marital_status(marital_status_id) not null,
+	is_alive boolean default(true) not null,	
+	is_active boolean default(true) not null,	
+	is_personnel boolean not null,	
+	is_local boolean not null,	
 );
 
 create table customer_to_addresses (
@@ -55,11 +59,5 @@ create table cards (
 	expiry_year int not null, 
 	security_code char(4) not null	
 );
-
-
-
-
-
-
 
 
