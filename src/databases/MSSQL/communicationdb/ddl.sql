@@ -24,6 +24,7 @@ create table TABLE_SETUP (
     DESCRIPTON varchar(254),
 )
 
+
 create table MSG_SETUP (
     MSG_ID int primary key identity(1, 1),
     MSG_NAME varchar(254) not null,
@@ -34,7 +35,8 @@ create table MSG_SETUP (
     USED bit default(0) not null,
     KEEP_HISTORY int not null,
     MSG_TABLE_NAME varchar(64) foreign key references TABLE_SETUP(MSG_TABLE_NAME),
-    DESCRIPTION varchar(254)
+    DESCRIPTION varchar(254),
+    unique (MSG_NAME, SOURCE, DESTINATION)
 )
 
 create table SEND (
@@ -49,8 +51,10 @@ create table SEND (
     SIMULATION bit not null
 )
 
+
+
 create table POTA (
-    ID int foreign key references SEND(ID) not null,
+    ID int primary key foreign key references SEND(ID) not null,
     ACTION varchar(1) not null,
     POTA_NUMBER varchar(2),
     HEAT_COUNT int,
@@ -62,7 +66,7 @@ create table POTA (
 )
 
 create table KOVA (
-    ID int foreign key references SEND(ID) not null,
+    ID int primary key foreign key references SEND(ID) not null,
     ACTION varchar(1) not null,
     KOVA_NUMBER varchar(2) not null,
     ORDER_NUMBER varchar(20),
@@ -73,6 +77,8 @@ create table KOVA_DET (
     ID int foreign key references SEND(ID) not null,
     CNT int not null,
     MATERIAL varchar(32) not null,
-    WEIGHT int not null
+    WEIGHT int not null,
+    primary key(ID, CNT, MATERIAL)
 )
+
 
