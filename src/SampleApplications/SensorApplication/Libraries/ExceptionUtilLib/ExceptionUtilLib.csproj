@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CSD.Util.Error</RootNamespace>
+    <AssemblyName>CSD.Util.Error</AssemblyName>
+  </PropertyGroup>
+
+</Project>

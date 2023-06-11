@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>CSD.SensorAppService</AssemblyName>
+    <RootNamespace>CSD.SensorApp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.14" />
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />        
+    <PackageReference Include="Microsoft.Net.Http" Version="2.2.29" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SensorAppDAL\SensorAppDAL.csproj" />
+    <ProjectReference Include="..\SensorAppRepositoryLib\SensorAppRepositoryLib.csproj" />
+    <Reference Include="CSD.Data">
+      <HintPath>..\..\..\..\Libraries\DataUtilLib\bin\Release\net5.0\CSD.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="CSD.Util.Mappers">
+      <HintPath>..\..\..\..\Libraries\MapperUtilLib\bin\Release\net5.0\CSD.Util.Mappers.dll</HintPath>
+    </Reference>
+    <Reference Include="CSDAsync">
+      <HintPath>..\..\..\..\Libraries\AsyncUtilLib\bin\Release\net5.0\CSDAsync.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>

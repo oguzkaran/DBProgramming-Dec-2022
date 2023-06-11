@@ -1,0 +1,12 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\bin\Release\net5.0\CSD.Util.Databinding.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\bin\Release\net5.0\CSD.Util.Databinding.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\bin\Release\net5.0\ref\CSD.Util.Databinding.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\bin\Release\net5.0\CSD.Util.Databinding.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\obj\Release\net5.0\DataBindingLib.csproj.AssemblyReference.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\obj\Release\net5.0\DataBindingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\obj\Release\net5.0\DataBindingLib.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\obj\Release\net5.0\DataBindingLib.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\obj\Release\net5.0\DataBindingLib.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\obj\Release\net5.0\CSD.Util.Databinding.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\obj\Release\net5.0\ref\CSD.Util.Databinding.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\DataBindingLib\obj\Release\net5.0\CSD.Util.Databinding.pdb

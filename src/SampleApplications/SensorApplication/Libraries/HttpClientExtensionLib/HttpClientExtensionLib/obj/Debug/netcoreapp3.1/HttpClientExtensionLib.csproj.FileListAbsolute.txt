@@ -1,0 +1,9 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Debug\netcoreapp3.1\HttpClientExtensionLib.csprojAssemblyReference.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Debug\netcoreapp3.1\HttpClientExtensionLib.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Debug\netcoreapp3.1\HttpClientExtensionLib.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\bin\Debug\netcoreapp3.1\CSD.Extensions.Net.Http.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\bin\Debug\netcoreapp3.1\CSD.Extensions.Net.Http.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\bin\Debug\netcoreapp3.1\CSD.Extensions.Net.Http.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Debug\netcoreapp3.1\HttpClientExtensionLib.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Debug\netcoreapp3.1\CSD.Extensions.Net.Http.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Debug\netcoreapp3.1\CSD.Extensions.Net.Http.pdb

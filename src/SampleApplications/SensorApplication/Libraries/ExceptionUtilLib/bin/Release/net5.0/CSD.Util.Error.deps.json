@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSD.Util.Error/1.0.0": {
+        "runtime": {
+          "CSD.Util.Error.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSD.Util.Error/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\bin\Release\net5.0\CSD.Util.TPL.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\bin\Release\net5.0\CSD.Util.TPL.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\bin\Release\net5.0\ref\CSD.Util.TPL.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\bin\Release\net5.0\CSD.Util.TPL.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\obj\Release\net5.0\TaskUtilLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\obj\Release\net5.0\TaskUtilLib.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\obj\Release\net5.0\TaskUtilLib.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\obj\Release\net5.0\TaskUtilLib.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\obj\Release\net5.0\CSD.Util.TPL.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\obj\Release\net5.0\ref\CSD.Util.TPL.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\TaskUtilLib\obj\Release\net5.0\CSD.Util.TPL.pdb

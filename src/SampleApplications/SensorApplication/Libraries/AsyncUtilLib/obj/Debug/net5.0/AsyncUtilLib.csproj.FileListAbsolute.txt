@@ -1,0 +1,12 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\bin\Debug\net5.0\CSDAsync.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\bin\Debug\net5.0\CSDAsync.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\bin\Debug\net5.0\ref\CSDAsync.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\bin\Debug\net5.0\CSDAsync.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\obj\Debug\net5.0\AsyncUtilLib.csproj.AssemblyReference.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\obj\Debug\net5.0\AsyncUtilLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\obj\Debug\net5.0\AsyncUtilLib.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\obj\Debug\net5.0\AsyncUtilLib.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\obj\Debug\net5.0\AsyncUtilLib.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\obj\Debug\net5.0\CSDAsync.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\obj\Debug\net5.0\ref\CSDAsync.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\Alga-WPF-Jan-2022\src\Libraries\AsyncUtilLib\obj\Debug\net5.0\CSDAsync.pdb

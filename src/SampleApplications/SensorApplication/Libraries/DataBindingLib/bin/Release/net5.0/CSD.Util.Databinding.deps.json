@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSD.Util.Databinding/1.0.0": {
+        "runtime": {
+          "CSD.Util.Databinding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSD.Util.Databinding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

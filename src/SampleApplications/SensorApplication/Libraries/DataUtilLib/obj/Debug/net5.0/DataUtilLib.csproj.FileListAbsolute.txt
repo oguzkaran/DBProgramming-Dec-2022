@@ -1,0 +1,12 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\bin\Debug\net5.0\CSD.Data.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\bin\Debug\net5.0\CSD.Data.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\bin\Debug\net5.0\ref\CSD.Data.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\bin\Debug\net5.0\CSD.Data.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\obj\Debug\net5.0\DataUtilLib.csproj.AssemblyReference.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\obj\Debug\net5.0\DataUtilLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\obj\Debug\net5.0\DataUtilLib.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\obj\Debug\net5.0\DataUtilLib.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\obj\Debug\net5.0\DataUtilLib.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\obj\Debug\net5.0\CSD.Data.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\obj\Debug\net5.0\ref\CSD.Data.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\DataUtilLib\obj\Debug\net5.0\CSD.Data.pdb

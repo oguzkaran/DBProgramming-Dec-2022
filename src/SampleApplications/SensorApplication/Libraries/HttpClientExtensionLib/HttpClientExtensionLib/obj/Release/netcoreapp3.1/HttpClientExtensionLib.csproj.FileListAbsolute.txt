@@ -1,0 +1,10 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\bin\Release\netcoreapp3.1\CSD.Extensions.Net.Http.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\bin\Release\netcoreapp3.1\CSD.Extensions.Net.Http.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\bin\Release\netcoreapp3.1\CSD.Extensions.Net.Http.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Release\netcoreapp3.1\HttpClientExtensionLib.csproj.AssemblyReference.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Release\netcoreapp3.1\HttpClientExtensionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Release\netcoreapp3.1\HttpClientExtensionLib.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Release\netcoreapp3.1\HttpClientExtensionLib.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Release\netcoreapp3.1\HttpClientExtensionLib.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Release\netcoreapp3.1\CSD.Extensions.Net.Http.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\obj\Release\netcoreapp3.1\CSD.Extensions.Net.Http.pdb

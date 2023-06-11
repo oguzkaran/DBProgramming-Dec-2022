@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CSD.Extensions.Net.Http
+build_property.ProjectDir = C:\Users\Karans\Dropbox\CSD\Kurslar\DotnetCore-JS-WebProg-Aug-2021\src\DotnetCore\Libraries\HttpClientExtensionLib\HttpClientExtensionLib\

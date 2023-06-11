@@ -1,0 +1,22 @@
+﻿<Window x:Class="SensorApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SensorApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <StackPanel Orientation="Vertical">
+            <ListBox x:Name="m_listBoxSensors" x:FieldModifier="private" SelectionChanged="m_listBoxSensors_SelectionChanged" Width="100" Height="200"/>
+            <TextBox x:Name="m_textBoxSensorName" TextWrapping="Wrap"/>
+            <TextBox x:Name="m_textBoxSensorHost" TextWrapping="Wrap"/>
+            <Button x:Name="m_buttonUpdate" x:FieldModifier="private" Content="Update" Click="m_buttonUpdate_Click"/>
+            <Button x:Name="m_buttonSave" x:FieldModifier="private" Content="Save" Click="m_buttonSave_Click"/>
+        </StackPanel>
+
+        <Button x:Name="m_buttonFind" x:FieldModifier="private" Content="Find" Click="m_buttonFind_Click"/>
+        <Button x:Name="m_buttonList" x:FieldModifier="private" Content="List All" Click="m_buttonList_Click"/>
+        <TextBox x:Name="m_textBoxName" TextWrapping="Wrap"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSD.Util.TPL/1.0.0": {
+        "runtime": {
+          "CSD.Util.TPL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSD.Util.TPL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
